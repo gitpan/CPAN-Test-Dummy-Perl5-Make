@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                CPAN-Test-Dummy-Perl5-Make
-version:             1.03
+version:             1.04
 abstract:            CPAN Test Dummy for CPAN.pm
 license:             unknown
 generated_by:        ExtUtils::MakeMaker version 6.30_04
